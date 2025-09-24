@@ -1,7 +1,7 @@
 // import React from "react";
 // import { AiOutlinePlus, AiOutlineMinus } from "react-icons/ai";
 // import { MdDelete } from "react-icons/md";
-// const ItemCard = ({ id, img, price, title, quantity }) => {
+// const FoodCard = ({ id, img, price, title, quantity }) => {
 //   return (
 //     <div className="flex gap-2 rounded-lg shadow-md p-4 mb-3">
 //       <MdDelete className="absolute right-7 text-gray-600 cursor-pointer" />
@@ -25,4 +25,4 @@
 //   );
 // };
 
-// export default ItemCard;
+// export default FoodCard;

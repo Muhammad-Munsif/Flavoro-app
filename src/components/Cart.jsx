@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { IoMdClose } from "react-icons/io";
-import ItemCard from "./ItemCard";
+import ItemCard from "./FoodCard";
 import { useSelector } from "react-redux";
 import { FaShoppingCart } from "react-icons/fa";
 const Cart = () => {

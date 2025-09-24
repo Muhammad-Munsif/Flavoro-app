@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import CategaryMenu from "../components/CategaryMenu";
-// import FoodItem from "../components/FoodItem";
+import FoodItems from "../components/FoodItems";
 // import Cart from "../components/Cart";
 
 const Home = () => {
@@ -9,8 +9,8 @@ const Home = () => {
     <>
       <Navbar />
       <CategaryMenu />
-      {/* <FoodItem />
-      <Cart /> */}
+      <FoodItems />
+      {/* <Cart /> */}
     </>
   );
 };
