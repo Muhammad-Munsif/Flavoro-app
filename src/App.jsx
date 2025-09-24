@@ -1,7 +1,8 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Home from "./Home";
-import Success from "./Success";
-import Error from "./Error";
+import Home from "./pages/Home";
+import Error from "./pages/Error";
+import Success from "./pages/Success";
+
 import ProtectedRoute from "./components/ProtectedRoute";
 import { Toaster } from "react-hot-toast";
 
