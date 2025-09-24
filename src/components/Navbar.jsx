@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="flex flex-col lg:flex-row justify-between mx-6 py-4">
       <div className="">
         <h3 className="text-2xl">{new Date().toUTCString().slice(0, 16)}</h3>
-        <h1 className="text-2xl font-bold">flovoro</h1>
+        <h1 className="text-2xl font-bold">Flavoro</h1>
       </div>
       <div className="">
         <input
